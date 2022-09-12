@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>conversor de bases</title>
+    <link rel="stylesheet" href="./assets/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="container-item">
+        <h2>conversor de bases</h2>
+
+        <input
+          type="text"
+          class="text"
+          id="numero-informado"
+          placeholder="entre com um número decimal"
+        />
+
+        <select id="base-informada">
+          <option value="">escolher base</option>
+          <option value="2">binária</option>
+          <option value="16">hexadecimal</option>
+          <option value="8">octal</option>
+        </select>
+
+        <div class="botao">
+          <button id="converter">converter</button>
+        </div>
+
+        <span id="mensagem"></span>
+      </div>
+    </div>
+
+    <script src="./assets/js.js"></script>
+  </body>
+</html>
