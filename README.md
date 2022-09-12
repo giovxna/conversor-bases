@@ -5,6 +5,7 @@ essa foi uma atividade proposta para a matéria de arquitetura computacional min
 
 </br>
 você pode conferir [aqui](https://giovxna.github.io/conversor-bases/).
+você pode conferir [aqui](https://giovxna.github.io/one-page/).
 
 ## ✨ tecnologias
 
