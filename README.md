@@ -3,6 +3,9 @@ simples conversor de bases numéricas utilizando javascript puro. o usuário ao 
 <br>
 essa foi uma atividade proposta para a matéria de arquitetura computacional ministrada pelo professor eduardo, na sp tech school.
 
+</br></br>
+você pode conferir [aqui](giovxna.github.io/conversor-bases/).
+
 ## ✨ tecnologias
 
 esse projeto foi desenvolvido com as seguintes tecnologias:
