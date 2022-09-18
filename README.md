@@ -1,5 +1,5 @@
 ## 🌈 projeto
-simples conversor de bases numéricas utilizando javascript puro. o usuário ao enserir um número decimal poderá optar converter para binário, octal ou hexadecimal. 
+simples conversor de bases numéricas utilizando javascript puro. o usuário ao inserir um número decimal poderá optar converter para binário, octal ou hexadecimal. 
 <br>
 essa foi uma atividade proposta para a matéria de arquitetura computacional ministrada pelo professor eduardo, na sp tech school.
 
